@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment_8</string>
+    <string name="notification_clicked">notification_clicked</string>
+    <string name="reviews_clicked">reviews_clicked</string>
+    <string name="favorite_clicked">favorite_clicked</string>
+    <string name="search_clicked">search_clicked</string>
+    <string name="profile_clicked">profile_clicked</string>
+    <string name="settings_clicked">settings_clicked</string>
+    <string name="want_to_read">want_to_read</string>
+</resources>
